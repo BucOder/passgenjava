@@ -1,4 +1,4 @@
 PassGenJava
 ===========
 
-A password generator using JAVA
+A password generator using JAVA.
